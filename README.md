@@ -30,3 +30,5 @@ An alias can be created to make the command easier to use. For example, to creat
 ```bash
 $ alias pwdGen="~/go/bin/pwdGen"
 ```
+
+## This project is licensed under the terms of the MIT license. See the [LICENSE file](LICENSE) for more info.
