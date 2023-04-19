@@ -22,7 +22,7 @@ $ go run main.go -l [length] -c [complexity]
 
 ## Installation
 ```bash
-$ go install github.com/8xu/pwdGen
+$ go install github.com/8xu/pwdGen@latest
 ```
 
 ## Creating an alias
